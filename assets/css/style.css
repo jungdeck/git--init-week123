@@ -1,0 +1,7 @@
+.directory {
+    display: flex;
+    background-color: beige;
+    flex-wrap: wrap;
+    font-size: 100px;
+    font-style: bold;
+}
